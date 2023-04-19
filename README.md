@@ -7,5 +7,5 @@ These were autonomously uploaded via node.js, Google's Puppeteer, arrays saved a
 Total sales to date on eBay are above $60k of products that I never owned in the first place, that sales number does not include Bonanza sales. <br><br>
 
 This dropshipment application is no longer maintained as I make good, easy money through my job at AA. I often consider spinning AutonomousSellerBot up again for passive income but... whatever. The most important impact this had on my life was when I had to have a major surgery and was out of work for 2 months. This app was sufficient as my only source of income.<br><br>
-Here is a link to my eBay reviews as proof.<br>
+Here is a link to my eBay reviews as proof of deployment.<br>
 https://www.ebay.com/fdbk/feedback_profile/2015.docus
